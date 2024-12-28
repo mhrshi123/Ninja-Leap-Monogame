@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/../../../Graphics/Penguin.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/../../../Graphics/Tile1.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/../../../Graphics/Tile2.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Fonts/gameInfo.spritefont</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Fonts/gameInfo2.spritefont</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Fonts/gameOverFont.spritefont</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Fonts/mainMenuTitle.spritefont</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Fonts/menuFont.spritefont</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/background.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/gameInformation.jpg</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/gameMenu.jpg</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/Layer0.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/Layer1.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/Layer2.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/Layer3.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/Layer4.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/Red-Flag.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/SoundEffects/game-over.wav</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/SoundEffects/winning.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Images/Penguin.png</File>
+    <File>Images/Tile1.png</File>
+    <File>Images/Tile2.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
