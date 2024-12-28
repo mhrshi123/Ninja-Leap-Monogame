@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Platformer_GroupAssignment
+namespace Platformer
 {
     // Class to hold global variables and methods
     public class Globals

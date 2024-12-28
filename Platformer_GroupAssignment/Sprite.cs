@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Platformer_GroupAssignment
+namespace Platformer
 {
     // Base class for all sprites in the game
     public class Sprite

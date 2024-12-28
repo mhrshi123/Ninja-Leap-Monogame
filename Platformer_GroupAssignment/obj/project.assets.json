@@ -244,9 +244,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer_GR6\\Platformer_GroupAssignment\\Platformer_GroupAssignment.csproj",
-      "projectName": "Platformer_GroupAssignment",
-      "projectPath": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer_GR6\\Platformer_GroupAssignment\\Platformer_GroupAssignment.csproj",
+      "projectUniqueName": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer_GR6\\Platformer_GroupAssignment\\Platformer.csproj",
+      "projectName": "Platformer",
+      "projectPath": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer_GR6\\Platformer_GroupAssignment\\Platformer.csproj",
       "packagesPath": "C:\\Users\\mhrsh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mhrsh\\OneDrive\\Desktop\\Platformer_GR6\\Platformer_GroupAssignment\\obj\\",
       "projectStyle": "PackageReference",

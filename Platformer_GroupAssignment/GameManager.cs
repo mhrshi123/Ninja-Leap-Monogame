@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-    namespace Platformer_GroupAssignment
+    namespace Platformer
     {
 
 
@@ -16,7 +16,7 @@ using System.Threading.Tasks;
             bool _gameEnded = false;
             private SoundEffect _winningSound;
             private SoundEffect _losingSound;
-            private Penguin _penguin;
+            private Player _player;
             private Flag _flag;
             private Map _map;
             private SpriteFont _font;
@@ -42,7 +42,7 @@ using System.Threading.Tasks;
             public void InitializeGame()
             {
                 _map = new Map();
-                _penguin = new Penguin(Globals.Content.Load<Texture2D>("Images/Penguin"), new Vector2(200, 200));
+                _player = new Player(Globals.Content.Load<Texture2D>("Images/Hero"), new Vector2(200, 200));
                 _flag = new Flag(Globals.Content.Load<Texture2D>("Images/Red-Flag"), new Vector2(1536, 128), 0.83f);
                 gameState = GameState.Playing;
                 _gameEnded = false;
@@ -52,14 +52,14 @@ using System.Threading.Tasks;
             {
                 if (gameState == GameState.Playing)
                 {
-                    _penguin.Update();
+                    _player.Update();
 
-                    if (_penguin.position.Y > Globals.WindowSize.Y)
+                    if (_player.position.Y > Globals.WindowSize.Y)
                     {
                         gameState = GameState.GameOver;
                     }
 
-                    if (_flag.CheckCollision(_penguin.Bounds))
+                    if (_flag.CheckCollision(_player.Bounds))
                     {
                         gameState = GameState.Win;
                     }
@@ -89,7 +89,7 @@ using System.Threading.Tasks;
                 {
                     _bgm.Draw();
                     _map.Draw();
-                    _penguin.Draw();
+                    _player.Draw();
                     _flag.Draw();
                 }
                 else if (gameState == GameState.GameOver)

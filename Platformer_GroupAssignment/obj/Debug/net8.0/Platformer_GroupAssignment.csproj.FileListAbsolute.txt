@@ -83,3 +83,4 @@ C:\Users\mhrsh\OneDrive\Desktop\Platformer_GR6\Platformer_GroupAssignment\bin\De
 C:\Users\mhrsh\OneDrive\Desktop\Platformer_GR6\Platformer_GroupAssignment\bin\Debug\net8.0\Content\Fonts\gameInfo2.xnb
 C:\Users\mhrsh\OneDrive\Desktop\Platformer_GR6\Platformer_GroupAssignment\bin\Debug\net8.0\Content\Images\gameInformation.xnb
 C:\Users\mhrsh\OneDrive\Desktop\Platformer_GR6\Platformer_GroupAssignment\bin\Debug\net8.0\Content\Images\Red-Flag.xnb
+C:\Users\mhrsh\OneDrive\Desktop\Platformer_GR6\Platformer_GroupAssignment\obj\Debug\net8.0\Platformer_GroupAssignment.sourcelink.json

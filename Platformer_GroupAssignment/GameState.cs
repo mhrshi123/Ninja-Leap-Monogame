@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Platformer_GroupAssignment
+namespace Platformer
+
 {
     public enum GameState
     {

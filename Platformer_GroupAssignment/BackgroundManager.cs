@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Platformer_GroupAssignment
+namespace Platformer
 {
     // Class to manage the background layers
     public class BackgroundManager

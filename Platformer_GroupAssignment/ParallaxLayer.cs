@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Platformer_GroupAssignment
+namespace Platformer
 {
     //Represents parallax layer for background scrolling
     public class ParallaxLayer

@@ -13,6 +13,30 @@
 
 #---------------------------------- Content ---------------------------------#
 
+#begin ../../../../../OneDrive - Conestoga College/3rd_Term/Game_Programming_With_Data_Structures_PROG2370/Group_Assignment/graphics/tile1.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../OneDrive - Conestoga College/3rd_Term/Game_Programming_With_Data_Structures_PROG2370/Group_Assignment/graphics/tile1.png;Images/tile1.png
+
+#begin ../../../../../OneDrive - Conestoga College/3rd_Term/Game_Programming_With_Data_Structures_PROG2370/Group_Assignment/graphics/tile2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../OneDrive - Conestoga College/3rd_Term/Game_Programming_With_Data_Structures_PROG2370/Group_Assignment/graphics/tile2.png;Images/tile2.png
+
 #begin ../../../Graphics/Penguin.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -24,30 +48,6 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:../../../Graphics/Penguin.png;Images/Penguin.png
-
-#begin ../../../Graphics/Tile1.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:../../../Graphics/Tile1.png;Images/Tile1.png
-
-#begin ../../../Graphics/Tile2.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:../../../Graphics/Tile2.png;Images/Tile2.png
 
 #begin Fonts/gameInfo.spritefont
 /importer:FontDescriptionImporter
@@ -119,6 +119,18 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:Images/gameMenu.jpg
+
+#begin Images/hero.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Images/hero.png
 
 #begin Images/Layer0.png
 /importer:TextureImporter

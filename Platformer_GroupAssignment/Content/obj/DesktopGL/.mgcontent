@@ -4,9 +4,9 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/../../../../../OneDrive - Conestoga College/3rd_Term/Game_Programming_With_Data_Structures_PROG2370/Group_Assignment/graphics/tile1.png</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/../../../../../OneDrive - Conestoga College/3rd_Term/Game_Programming_With_Data_Structures_PROG2370/Group_Assignment/graphics/tile2.png</File>
     <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/../../../Graphics/Penguin.png</File>
-    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/../../../Graphics/Tile1.png</File>
-    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/../../../Graphics/Tile2.png</File>
     <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Fonts/gameInfo.spritefont</File>
     <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Fonts/gameInfo2.spritefont</File>
     <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Fonts/gameOverFont.spritefont</File>
@@ -15,6 +15,7 @@
     <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/background.png</File>
     <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/gameInformation.jpg</File>
     <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/gameMenu.jpg</File>
+    <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/hero.png</File>
     <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/Layer0.png</File>
     <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/Layer1.png</File>
     <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/Images/Layer2.png</File>
@@ -25,9 +26,10 @@
     <File>C:/Users/mhrsh/OneDrive/Desktop/Platformer_GR6/Platformer_GroupAssignment/Content/SoundEffects/winning.wav</File>
   </SourceFiles>
   <DestFiles>
+    <File>Images/tile1.png</File>
+    <File>Images/tile2.png</File>
     <File>Images/Penguin.png</File>
-    <File>Images/Tile1.png</File>
-    <File>Images/Tile2.png</File>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

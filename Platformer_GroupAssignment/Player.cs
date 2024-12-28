@@ -7,10 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Platformer_GroupAssignment
+namespace Platformer
 {
     // Represents the player character
-    public class Penguin : Sprite
+    public class Player : Sprite
     {
         // Constants for movement and physics
         private const float SPEED = 750f;
@@ -22,7 +22,7 @@ namespace Platformer_GroupAssignment
         // Whether the player is on the ground
         private bool _onGround;
 
-        public Penguin(Texture2D texture, Vector2 position) : base(texture, position)
+        public Player(Texture2D texture, Vector2 position) : base(texture, position)
         {
         }
 

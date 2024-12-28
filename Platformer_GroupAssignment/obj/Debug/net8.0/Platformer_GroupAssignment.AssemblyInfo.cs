@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Platformer_GroupAssignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+790ac2d1af49d1a85672c9343e03367ba252edf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Platformer_GroupAssignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Platformer_GroupAssignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

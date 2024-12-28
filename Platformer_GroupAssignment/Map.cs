@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Platformer_GroupAssignment
+namespace Platformer
 {
     public class Map
     {
@@ -33,8 +33,8 @@ namespace Platformer_GroupAssignment
         {
             _target = new(Globals.GraphicsDevice, tiles.GetLength(1) * TILE_SIZE, tiles.GetLength(0) * TILE_SIZE);
 
-            var tile1tex = Globals.Content.Load<Texture2D>("Images/Tile1");
-            var tile2tex = Globals.Content.Load<Texture2D>("Images/Tile2");
+            var tile1tex = Globals.Content.Load<Texture2D>("Images/tile1");
+            var tile2tex = Globals.Content.Load<Texture2D>("Images/tile2");
 
             Globals.GraphicsDevice.SetRenderTarget(_target);
             Globals.GraphicsDevice.Clear(Color.Transparent);
